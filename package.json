@@ -1,0 +1,35 @@
+{
+  "name": "react-native-credit-card-input-image",
+  "version": "1.0.0",
+  "description": "Paquete sin error del ImageBackground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikipdia/react-native-credit-card-input-image.git"
+  },
+  "author": "Mikipedia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikipdia/react-native-credit-card-input-image/issues"
+  },
+  "homepage": "https://github.com/mikipdia/react-native-credit-card-input-image#readme",
+  "dependencies": {
+    "card-validator": "^2.2.0",
+    "react-native-flip-card": "^3.3.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.every": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "lodash.values": "^4.3.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "babel-polyfill": "^6.6.1",
+    "babel-preset-react-native": "^1.8.0",
+    "eslint": "~2.2.0",
+    "eslint-config-airbnb": "6.0.2",
+    "eslint-plugin-react": "^4.2.0"
+  }
+}
