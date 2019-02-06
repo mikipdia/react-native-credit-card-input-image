@@ -19,6 +19,7 @@
   "dependencies": {
     "card-validator": "^6.1.0",
     "react-native-flip-card": "^3.5.2",
+    "lodash": "^4.17.11",
     "lodash.compact": "^3.0.1",
     "lodash.every": "^4.6.0",
     "lodash.pick": "^4.4.0",
