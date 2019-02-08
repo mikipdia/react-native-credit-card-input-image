@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React, { Component } from "react";
 import CCFieldFormatter from "./CCFieldFormatter";
 import CCFieldValidator from "./CCFieldValidator";
-import compact from "lodash.compact";
+import {compact} from "lodash";
 
 export const InjectedProps = {
   focused: PropTypes.string,
